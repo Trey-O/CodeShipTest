@@ -1,3 +1,2 @@
 # CodeShipTest
-Testing
-aaaa
+Testing Method update to README.Md
